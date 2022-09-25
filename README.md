@@ -1,3 +1,5 @@
+### This Repo is now Archived under Pulsar-Edit because it is a documentation format that we have superseded with [`pulsar-edit.github.io`](https://github.com/pulsar-edit/pulsar-edit.github.io)
+
 # Atom Flight Manual
 
 This is the Atom book. Everything you need to know in order to use and hack Atom is in this Flight Manual.
